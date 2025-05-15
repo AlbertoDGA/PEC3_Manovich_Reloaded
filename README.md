@@ -81,4 +81,4 @@ Creo que estos dos ejemplos nos ayudan a visualizar como el software se ha conve
 - CapCut. (s.f.). *Página oficial*. https://www.capcut.com
 - Pocket-lint. (2023). *¿Qué es CapCut y cómo funciona?* https://www.pocket-lint.com
 - GitHub. (s.f.). *Plantilla oficial de la PEC3*. https://github.com/mgea/PEC3_Manovich_Reloaded
-- OpenAI. (2025). *Imagen generada con DALL·E a partir de una descripción propia del estudiante*. https://openai.com/dall-e
+- OpenAI. (2025). *Imagen generada con DALL-E*. https://openai.com/dall-e
