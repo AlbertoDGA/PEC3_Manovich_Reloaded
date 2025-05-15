@@ -77,7 +77,7 @@ Creo que estos dos ejemplos nos ayudan a visualizar como el software se ha conve
 
 - Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.
 - Adell, F. (2024). *Fundamentos y evolución de la multimedia*. Universitat Oberta de Catalunya.
-- Epic Games. (s.f.). *The Stanley Parable*. Recuperado de https://store.epicgames.com/es-ES/p/the-stanley-parable
+- Epic Games. (s.f.). *The Stanley Parable*. https://store.epicgames.com/es-ES/p/the-stanley-parable
 - CapCut. (s.f.). *Página oficial*. https://www.capcut.com
 - Pocket-lint. (2023). *¿Qué es CapCut y cómo funciona?* https://www.pocket-lint.com
 - GitHub. (s.f.). *Plantilla oficial de la PEC3*. https://github.com/mgea/PEC3_Manovich_Reloaded
